@@ -1,0 +1,39 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li>{{ site.title }}</li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+          {% if site.github_username %}
+            <a href="https://github.com/{{ site.github_username }}">
+              <span class="icon  icon--github">
+                <img src="/assets/Octocat.png" alt=""/ width="64">
+              </span>
+
+              <span class="username">{{ site.github_username }}</span>
+            </a>
+          {% endif %}
+      </div>
+      <div class="footer-col  footer-col-2">
+        {% if site.twitter_username %}
+          <a href="https://twitter.com/{{ site.twitter_username }}">
+            <span class="icon  icon--twitter">
+              <img src="/assets/Twitter_logo_blue.png" alt=""/ width="64">
+            </span>
+
+            <span class="username">{{ site.twitter_username }}</span>
+          </a>
+        {% endif %}
+      </div>
+    </div>
+
+  </div>
+
+</footer>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erik Sandrén</title>
+    <description>Erik Sandrén programmer with interest in real time graphics, Motion capture and other cool stuff</description>
+    <link>http://www.hackerman.se/</link>
+    <atom:link href="http://www.hackerman.se/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 04 Nov 2014 00:29:16 +0100</pubDate>
+    <lastBuildDate>Tue, 04 Nov 2014 00:29:16 +0100</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>New portfolio!</title>
+        <description>&lt;p&gt;It’s been a while, but now I’ve finally taken the time to fix my new portfolio. Most of the stuff you’ll find here at the moment are projects I’ve worked on during my education or at hackathons.&lt;/p&gt;
+
+&lt;p&gt;The idea is to try, for the fifth time, to start blogging more about my projects and general developing. You can find my old blog here: &lt;a href=&quot;http://devunderinfluence.blogspot.se/&quot;&gt;Developing under influence&lt;/a&gt;.
+A blog I had with one of my great friends, &lt;a href=&quot;http://www.internetchefen.se&quot;&gt;Fredrik Lindner&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2014 has so far been quite awesome I must say. One of my projects, Mote.fm, Won two awards at &lt;strong&gt;C-awards&lt;/strong&gt;. Then in september, I participated in a hackathon called &lt;strong&gt;East Sweden Hack&lt;/strong&gt; and my team won a trip to silicon valley!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Nov 2014 00:45:00 +0100</pubDate>
+        <link>http://www.hackerman.se/2014/11/04/new-portfolio.html</link>
+        <guid isPermaLink="true">http://www.hackerman.se/2014/11/04/new-portfolio.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Old blog entries</title>
+        <description>&lt;p&gt;Here are some of the blog entries from my old blogs that perhaps could still be interesting to read&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A quick discussion about what I think games that gets kickstarted: &lt;a href=&quot;http://devunderinfluence.blogspot.se/2013/10/what-i-think-is-wrong-with-kickstarter.html&quot;&gt;What I think is wrong with kickstarter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A basic tutorial about debugging: &lt;a href=&quot;http://devunderinfluence.blogspot.se/2013/01/debugging-tutorial.html&quot;&gt;Basic debugging tutorial&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Follow up entry about debugging: &lt;a href=&quot;http://devunderinfluence.blogspot.se/2013/01/debugging-follow-up-eclipse.html&quot;&gt;Basic debugging follow up: Eclipse&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Personal thought about the PnC genre: &lt;a href=&quot;http://devunderinfluence.blogspot.se/2012/10/did-internet-kill-point-click-adventures.html&quot;&gt;Did internet kill the Point &amp;amp; Click Adeventures?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;How I think about learning aobut programming from the internet: &lt;a href=&quot;http://devunderinfluence.blogspot.se/2012/09/i-can-do-it-myself.html&quot;&gt;I can do it myself!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 03 Nov 2014 23:45:00 +0100</pubDate>
+        <link>http://www.hackerman.se/2014/11/03/old-blog.html</link>
+        <guid isPermaLink="true">http://www.hackerman.se/2014/11/03/old-blog.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
