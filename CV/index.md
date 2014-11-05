@@ -27,13 +27,13 @@ I volunteered to take part in the planning and execution of our non-profit event
 **Imagination Studios - Technical Artist** *2010-2013* \\
 I was involved developing new tools and software for our animation team to help them in their effectiveness. I was also involved in Research & Development within areas such as Motion Capture, asset management and pipeline development.
 
-**Imagination Studios - Internship** *2010* \\
+**Imagination Studios - Internship** *2010*
 
 ##Education
 ---
-**Linköpings Universitet - M. Sc. Media Technology & Engineering** *2012-2017(expected)*\\
+**Linköpings Universitet - M. Sc. Media Technology & Engineering** *2012-2017(expected)*
 
-**School of Future Entertainment - Digital Graphics (vocational Degree)** *2008-2010*\\
+**School of Future Entertainment - Digital Graphics (vocational Degree)** *2008-2010*
 
 
 ##Honors & Awards
