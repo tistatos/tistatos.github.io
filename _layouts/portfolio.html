@@ -1,0 +1,10 @@
+---
+layout: default_img
+---
+{{ content }}
+
+{% if page.github_name %}
+<div class="githublink">
+	<a href="http://github.com/{{site.github_username}}/{{page.github_name}}">Project on github </a>
+</div>
+{% endif %}
