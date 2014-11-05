@@ -7,7 +7,7 @@ url: "http://www.hackerman.se" # the base hostname & protocol for your site
 twitter_username: tistatos_
 github_username:  tistatos
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 
 collections:
  portfolio:
