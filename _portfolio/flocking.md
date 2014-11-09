@@ -7,7 +7,7 @@ github_name: flocking
 permalink: /portfolio/flocking/
 ---
 
-A quick implementation of boid flocking algorithm in OpenGL and 2D.
+A quick implementation of boid flocking algorithm in OpenGL.
 
 Flocking behaviour depends on three simple rules for each boid:
 
