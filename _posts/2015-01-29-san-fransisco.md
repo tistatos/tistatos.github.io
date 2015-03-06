@@ -19,6 +19,9 @@ I though it would summarize some thoughts I've gathered during the trip regardin
 # Game rooms aren't cool
 It's interesting seeing what errors swedish companies trying to be 'cool' makes when they look on companies in America. Most of them look at making the employees feel good via a game room or biliards. However, I think this is where they wrong. The fact that the bigger software companies has these things, they also have another imporant part - services for simplifyinng their employess day. They have breakfast/lunch/dinner for free, laundry. And this is something I personally feel is more important than a game room. A company shouldn't entertain their employees by a game room, it should simplify the day by removing worries that the employee could have.
 
+![The winners infront of the physical facebook wall](/assets/fb.jpg)
+
+
 # Location could matter
 A while ago, a couple of friends and I discussed the start-up culture and the fact that they want to gather at one spot. We questioned this way of working wondering what it could bring. But it seems like there is a big difference looking att this gathering in US and in Sweden, there is a certain way business relations work in the US that it doesn't in sweden - first meeting is simple, the second is not. People in the US want to meet you and see how you could work together, but if this connections is not apparent directly, you will have problems fixing the next meeting.
 
