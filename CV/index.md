@@ -38,6 +38,11 @@ I was involved developing new tools and software for our animation team to help 
 
 ##Honors & Awards
 ---
+**Hack for Sweden 2015 - Winner** \\
+Varsko, Swedish motivation
+
+> Med hjälp av öppet data skapar tjänsten en praktisk, samtida, modern och lokaliserad tjänst som saknas. Användargenererat innehåll ökar intresset för aktivt medborgarinnehåll.
+
 **East Sweden Hack 2014 - Winner** \\
 Gå 2.0, Swedish motivation
 
