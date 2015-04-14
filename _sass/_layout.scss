@@ -180,6 +180,7 @@
         padding: $spacing-unit 0;
     }
 }
+
 .infobox
 {
     max-height: 45%;
@@ -224,6 +225,12 @@
     font-size: 15px;
     color: black;
     font-style: italic;
+}
+
+.page-link-right{
+    display: inline;
+    float: right;
+    padding-right: 10px;
 }
 
 /**

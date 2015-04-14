@@ -1,14 +1,9 @@
 ---
-layout: default_img
-image_url: /assets/startimg.jpg
+layout: default
+permalink: /posts/
 ---
-
-<div class="home">
-
-  <h1 class="page-heading">Latest posts</h1>
-
   <ul class="post-list">
-    {% for post in site.posts limit:2 %}
+    {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -19,5 +14,3 @@ image_url: /assets/startimg.jpg
       </li>
     {% endfor %}
   </ul>
-  <a class="page-link-right" href="posts {{ prepend: site.baseurl}}">Older posts..</a>
-</div>
