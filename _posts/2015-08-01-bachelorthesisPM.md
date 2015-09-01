@@ -19,4 +19,5 @@ A solution I found later that could have solved some of the problems for us was 
 ##Camera positioning
 To be able to make a union of data from multiple cameras, we would have to know the relative orientation between cameras. We used OpenCV and their calibration functions for this. This worked good, but a problem we got was that we didn't have a solution to get camera positions if they were facing eachother i.e. we couldn't get the position of the camera behind the subject. In mocap system this is often solved with using something like a L-frame at the origin. I looked in to the possiblity of using markers for Augmented reality to achieve this, but I'm afraid there wasn't any time left to get this running.
 
+##Conclusion
 All in all, I think we are all happy with the result we accomplished in the amount of time we were given. We will see if there will be time for anyone to continue the development of the system to have a result possible to show off at the exhibition floor of the visualization center C.
