@@ -28,4 +28,5 @@ terms of number of satellites or time.
 The game has been nominated to the LiU Game Awards and at 17:15 today I will know
 if I won. :)
 
-I will post the about the game, including screenshots in my portfolio soon
+Update! I finished second in LiU Game awards after the game "Blanda". Checkout
+all the trailers [here](http://www.liuga.se)

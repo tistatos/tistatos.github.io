@@ -3,7 +3,6 @@ layout: portfolio
 title:  Medusa
 short: A Bachelor Thesis of 3D scanning and Reconstruction with kinects
 github_name: medusa
-github_username: tistatos 
 permalink: /portfolio/medusa/
 ---
 
