@@ -2,7 +2,7 @@
 layout: post
 title:  "Exosphere game"
 date:   2015-11-05 12:30:00
-short: a game about manipulation of orbits of satellites
+short: A game about manipulation of orbits of satellites
 ---
 
 During the first part of the autumn semester, I studied a course called 
