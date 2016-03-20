@@ -5,11 +5,11 @@ permalink: /CV/
 ---
 
 
-##Summary
+## Summary
 ---
 With a big interest for games and all the technical doohickeys making them tick, my passion lies in understanding and studying everything I can that revolves around computer graphics, Motion capture and game development.
 
-##Experience
+## Experience
 ---
 **Qualisys AB - Software Engineer** *2014 -* \\
 Part time work developing new software and solutions related to their motion capture software and hardware.
@@ -29,14 +29,14 @@ I was involved developing new tools and software for our animation team to help 
 
 **Imagination Studios - Internship** *2010*
 
-##Education
+## Education
 ---
 **Linköpings Universitet - M. Sc. Media Technology & Engineering** *2012-2017(expected)*
 
 **School of Future Entertainment - Digital Graphics (vocational Degree)** *2008-2010*
 
 
-##Honors & Awards
+## Honors & Awards
 ---
 **LiU Game Awards 2015 - Runner-up**\\
 Exosphere
@@ -64,5 +64,5 @@ Mote.fm, Swedish  motivation
 > En innovativ tjänst som löser en rolig utmaning genom demokratiska principer. Den har en väl definierad kund och kundnytta, både i privat och kommersiellt syfte. Produkten är klar, sätt på en prislapp och börja sälja!
 
 
-###For more information, check out my [LinkedIn profile](http://se.linkedin.com/in/eriksandren).
+#### For more information, check out my [LinkedIn profile](http://se.linkedin.com/in/eriksandren).
 
