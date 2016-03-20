@@ -37,4 +37,32 @@ I was involved developing new tools and software for our animation team to help 
 
 
 ## Honors & Awards
+---
+**LiU Game Awards 2015 - Runner-up**\\
+Exosphere
+
+**Hack for Sweden 2015 - Winner** \\
+Varsko, Swedish motivation
+
+> Med hjälp av öppet data skapar tjänsten en praktisk, samtida, modern och lokaliserad tjänst som saknas. Användargenererat innehåll ökar intresset för aktivt medborgarinnehåll.
+
+**East Sweden Hack 2014 - Winner** \\
+Gå 2.0, Swedish motivation
+
+> En proffsig och genomarbetad app som bidrar till god folkhälsa och har en bra marknadspotential. Den funkar och använder flera datakällor och ett snyggt gränssnitt och en app med 'Go'.
+
+
+**C Awards 2014 - Best creative technical Application**\\
+Mote.fm, Swedish  motivation
+
+> En kreativ idé som tar ett nytt grepp på en annars överexploaterad marknad av musikappar. Det vinnande bidraget ger demokratiska möjligheter att interagera med närvarande människor under fester eller cafébesök.
+
+
+**C Awards 2014 - Best business opportunity**\\
+Mote.fm, Swedish  motivation
+
+> En innovativ tjänst som löser en rolig utmaning genom demokratiska principer. Den har en väl definierad kund och kundnytta, både i privat och kommersiellt syfte. Produkten är klar, sätt på en prislapp och börja sälja!
+
+
+#### For more information, check out my [LinkedIn profile](http://se.linkedin.com/in/eriksandren).
 
