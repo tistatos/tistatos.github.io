@@ -207,7 +207,37 @@
     list-style: none;
 
     > li {
-        margin-bottom: $spacing-unit;
+        margin-bottom: 20px;
+    }
+
+    .project-item {
+      overflow: hidden;
+      display: table;
+      border: solid 2px $grey-color-light;
+      border-radius: 50px;
+      padding-bottom: 30px;
+      float: left;
+      width: 46%;
+
+      @include media-query($on-palm) {
+        width: 100%;
+        height:auto;
+        margin-right: 0px;
+      }
+
+      margin-right: 20px;
+      height: 250px;
+
+      @extend %clearfix;
+
+      .project-image {
+        margin-left: -20%;
+        margin-top: -20px;
+        width: 132%;
+        height: 150px;
+        background-size: cover;
+      }
+      .project-content { padding-left: 15px; }
     }
 }
 

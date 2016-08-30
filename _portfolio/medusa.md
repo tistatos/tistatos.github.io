@@ -4,6 +4,7 @@ title:  Medusa
 short: A Bachelor Thesis of 3D scanning and Reconstruction with kinects
 github_name: medusa
 permalink: /portfolio/medusa/
+image_url: /assets/medusa.png
 ---
 
 # Medusa
