@@ -38,6 +38,7 @@ I was involved developing new tools and software for our animation team to help 
 
 ## Honors & Awards
 ---
+
 **East Sweden Hack 2016 - Healthcare and medical care award**\\
 > For addressing both complexity regarding healthcare informatics AND the complexity regarding the healthcare IT infrastructure as well as providing flexibility of patients, with a prototype that emphasizes ease of use and turning data into information.
 
