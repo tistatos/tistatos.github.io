@@ -38,6 +38,14 @@ I was involved developing new tools and software for our animation team to help 
 
 ## Honors & Awards
 ---
+**East Sweden Hack 2016 - Healthcare and medical care award**\\
+> For addressing both complexity regarding healthcare informatics AND the complexity regarding the healthcare IT infrastructure as well as providing flexibility of patients, with a prototype that emphasizes ease of use and turning data into information.
+
+**C Awards 2016 - Best visual effects in film and motion picture**\\
+Lugna Lungan won best visual effects in film and motion picture at C Awards 2016.
+
+> A professional film that effectively communicates the need for this service. In a fine interplay with the idea’s concrete visual vision, the film highlights an urgent social problem. An educational innovation that invites to joint responsibility for our future. An excellent example of the human-computer interaction at its finest.
+
 **LiU Game Awards 2015 - Runner-up**\\
 Exosphere
 
@@ -65,4 +73,3 @@ Mote.fm, Swedish  motivation
 
 
 #### For more information, check out my [LinkedIn profile](http://se.linkedin.com/in/eriksandren).
-
