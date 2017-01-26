@@ -4,6 +4,7 @@ title:  Varsko
 short: A new system for announcements regarding public safety
 image_url: /assets/varsko.png
 permalink: /portfolio/varsko/
+rank: 10
 ---
 
 

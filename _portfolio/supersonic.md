@@ -5,6 +5,7 @@ short: An implementation of Linear Transformed Cosine.
 github_name: supersonic-sunshine
 permalink: /portfolio/supersonicsunshine/
 image_url: /assets/supersonic.png
+rank: 2
 ---
 
 # Supersonic Sunshine

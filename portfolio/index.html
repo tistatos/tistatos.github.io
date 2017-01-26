@@ -4,7 +4,8 @@ title: Portfolio
 permalink: /portfolio/
 ---
 <ul class="post-list">
-    {% for project in site.portfolio %}
+		{% assign sortedProjects = (site.portfolio | sort:'rank') %}
+    {% for project in sortedProjects %}
     <li class="project-item">
 			<a class="project-link" href="{{ project.url | prepend: site.baseurl }}">
       <div class = "project-image" style="background-image: url({{project.image_url}})">

@@ -5,6 +5,7 @@ short: Simulation of falling snow for dome theaters
 image_url: /assets/snowsim.jpg
 github_name: TNM061-StereoSnowSim
 permalink: /portfolio/SSS/
+rank: 4
 ---
 
 # Stereoscopic Snow Simulation (SSS)

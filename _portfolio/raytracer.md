@@ -5,6 +5,7 @@ short: A Global illumination raytracer done in the course TNCG15
 github_name: TNCG15-ray-tracer
 permalink: /portfolio/raytracer/
 image_url: /assets/big3h.png
+rank: 1
 ---
 
 # Raytracer

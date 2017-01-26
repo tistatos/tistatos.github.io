@@ -5,6 +5,7 @@ short: Simulation of a quadcopter with stablization
 github_name: quadproject
 github_username: danielronnkvist
 permalink: /portfolio/quadcopter/
+rank: 11
 ---
 
 # Quadproject

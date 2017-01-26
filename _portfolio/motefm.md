@@ -4,6 +4,7 @@ title:  Mote.fm
 image_url: /assets/motefm.png
 short: Democratize Music
 permalink: /portfolio/motefm/
+rank: 7
 ---
 
 **Democratize music**

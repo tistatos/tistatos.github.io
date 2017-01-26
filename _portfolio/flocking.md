@@ -5,6 +5,7 @@ short: basic implementation of flocking algorithm in OpenGL
 image_url: /assets/flocking.png
 github_name: flocking
 permalink: /portfolio/flocking/
+rank: 5
 ---
 
 A quick implementation of boid flocking algorithm in OpenGL.
