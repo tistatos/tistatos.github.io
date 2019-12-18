@@ -11,11 +11,28 @@ With a big interest for games and all the technical doohickeys making them tick,
 
 ## Experience
 ---
-**Qualisys AB - Software Engineer** *2014 -* \\
-Part time work developing new software and solutions related to their motion capture software and hardware.
+**Dataton AB - Software Developer** *Jun 2017 - * \\
+At Dataton I work as a Software developer on WATCHOUT - a multi-display software
+solution for AV industry with application areas such as live staging, museum exhibitions.
+
+**Dataton AB - Master Thesis** *Jan 2017 - Jun 2017* \\
+My master thesis had the title *Camera-based calibration for projection
+mapping*. It consisted of looking at methods of automating the process of
+calibrating the setup to achieve projection mapping. By using the projector and
+a camera to achieve computer stereo vision via structured light
+
+**Consid - Student Ambassador** *2016 - 2017* \\
+As a Student Ambassador for Consid, I was their channel to interact with
+students. This consisted of Events arranged by Consid but also as a recruitment
+possibility.
+
+**Qualisys AB - Software Engineer** *2014 - 2016* \\
+During my time at Qualisys, I've worked with developing a C# SDK for the real-time protocol from QTM (Qualisys Track Manager) and a demo implementation of streaming rigid bodies in real-time to Unity and animate characters via IK.
+
+I've also worked with an internal web-based solution to plan motion capture volumes for customers in regards of number of cameras, their position and orientation and also visualize the covered volume. The system is built with the MEAN-stack as well as a custom WebGL 3D editor with Threejs as a base
 
 **The media technology association - Board member (Head of web)** *2014-*\\
-Member of the board for our education. My work invovles the developing of our website and general web-related questions.
+Member of the board for our education. My work involved the developing of our website and general web-related questions.
 
 **Linköpings Universitet - LiTHehack** *2013-* \\
 LiTHehack is a student-driven project at Linköping University aiming to help and inspire students with programming. Anyone is offered guidance whenever it's a school assignment, laboration or just a personal project.
