@@ -11,7 +11,7 @@ With a big interest for games and all the technical doohickeys making them tick,
 
 ## Experience
 ---
-**Dataton AB - Software Developer** *Jun 2017 - * \\
+**Dataton AB - Software Developer** *Jun 2017 -* \\
 At Dataton I work as a Software developer on WATCHOUT - a multi-display software
 solution for AV industry with application areas such as live staging, museum exhibitions.
 
