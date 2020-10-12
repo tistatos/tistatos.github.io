@@ -1,0 +1,182 @@
+<html>
+	<link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+body, html {
+	scroll-behavior: smooth;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+	color: white;
+	font-family: 'Kumbh Sans', sans-serif;
+	font-size: 1.3em;
+}
+
+a {
+color: white;
+}
+
+.black {
+	color: black;
+}
+.container {
+  padding: 50px 42px;
+  margin: auto auto;
+  width: 50%;
+}
+.card-text {
+	position: absolute;
+	top: 50%;
+	left: 0%;
+	width: 100%;
+	text-align: center;
+}
+#section2 {
+	top: 25%;
+}
+.small-text {
+	text-align: left;
+	padding-top: 20px;
+	font-size: 0.6em;
+	width: 35%;
+	min-width: 400px;
+	margin: auto;
+}
+
+.plane-outer {
+	-moz-transform-origin: 50% 300px;
+	-webkit-transform-origin: 50% 300px;
+
+	-webkit-animation:spin 4s linear infinite;
+	-moz-animation:spin 4s linear infinite;
+	animation:spin 4s linear infinite;
+
+	position: absolute;
+	left:50%;
+	top:-210px;
+	font-size: 3em;
+}
+
+.fa-plane {
+	-moz-transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+}
+
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg);
+		transform:rotate(360deg); } }
+
+.card{
+   /* Full height */
+  height: 100%;
+	position: relative;
+}
+
+.bg{
+  /* The image used */
+  background-image: url("https://hackerman.se/assets/is_small_comp.jpg");
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#first-card-text {
+  display: none;
+	font-size: 1.6em;
+}
+
+#first-card-text-two {
+  display: none;
+}
+
+#first-card-arrow {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	display: none;
+	padding-bottom: 20px;
+}
+
+.iceland {
+		width: 111px;
+		height: 80px;
+
+		margin: 40px auto;
+		background: linear-gradient(to bottom, transparent 43%, #D72828
+			43%, #D72828 54%, transparent 54%), linear-gradient(to right,
+			transparent 34%, #D72828 34%, #D72828 41%, transparent 41%),
+		linear-gradient(to right, transparent 30%, white 30%, white
+			45%, transparent 45%), linear-gradient(to bottom, transparent
+			38%, white 38%, white 59%, transparent 59%), #003897; }
+</style>
+
+<body>
+  <div class="bg card">
+    <div class="container">
+      <div class="card-text">
+        <div id="first-card-text">
+          Nu tänker du - "Jag fyller 30 och allt jag får är ett jäkla pussel!?"
+          <div id="first-card-text-two">
+            Kanske det är lite mer än ett pussel...
+          </div>
+        </div>
+      </div>
+    </div>
+		<div id="first-card-arrow">
+			<a href="#section2">
+				<i class="fa fa-arrow-down" aria-hidden="true"></i>
+			</a>
+		</div>
+  </div>
+  <div class="card">
+    <div class="container">
+			<div id="section2" class="card-text black">
+				<div class="iceland"> </div>
+				Du, jag och Lill-tjejjen skall åka till Island!
+				<div class="small-text">
+					<p>
+					Tanken är att vi åker nästa sommar om corona läget låter oss...
+					Datumen jag tänkt mig är 15e till 20e juni. Då kan vi delta i deras
+					nationaldag som skall vara ett roligt evenemang.
+					</p>
+					<p>
+					Grattis och -	Va roligt det ska bli!!!
+					</p>
+				</div>
+			</div>
+    </div>
+  </div>
+</body>
+</html>
+
+<script>
+window.onload = function () {
+	txt = $("#first-card-text");
+	arrow = $("#first-card-arrow");
+	arrow.on('click', function(event) {
+			event.preventDefault();
+			$('html, body').animate({
+				scrollTop: $("#section2").offset().top
+			}, 400);
+	});
+
+  txt.fadeIn(3000, function() {
+		setTimeout(
+			function() {
+				txt2 = $("#first-card-text-two");
+				txt2.fadeIn(3000, function() {
+					arrow.fadeIn(2000)
+					$(document.body).css("overflow", "auto");
+				});
+			}
+			, 2000);
+  });
+};
+</script>

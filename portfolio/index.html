@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 <ul class="post-list">
-		{% assign sortedProjects = (site.portfolio | sort:'rank') %}
+		{% assign sortedProjects = site.portfolio | sort:'rank' %}
     {% for project in sortedProjects %}
     <li class="project-item">
 			<a class="project-link" href="{{ project.url | prepend: site.baseurl }}">
