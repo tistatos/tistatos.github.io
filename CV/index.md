@@ -11,7 +11,11 @@ With a big interest for games and all the technical doohickeys making them tick,
 
 ## Experience
 ---
-**Dataton AB - Software Developer** *Jun 2017 -* \\
+**Veoneer & Arriver - Software Engineer** *May 2020 -* \\
+Software-in-the-loop (SiL) Simulator development for Advanced Driver Assistance
+System (ADAS) and Autonomous Driving (AD)
+
+**Dataton AB - Software Developer** *2017 - 2020* \\
 At Dataton I work as a Software developer on WATCHOUT - a multi-display software
 solution for AV industry with application areas such as live staging, museum exhibitions.
 
@@ -31,10 +35,10 @@ During my time at Qualisys, I've worked with developing a C# SDK for the real-ti
 
 I've also worked with an internal web-based solution to plan motion capture volumes for customers in regards of number of cameras, their position and orientation and also visualize the covered volume. The system is built with the MEAN-stack as well as a custom WebGL 3D editor with Threejs as a base
 
-**The media technology association - Board member (Head of web)** *2014-*\\
+**The media technology association - Board member (Head of web)** *2014*\\
 Member of the board for our education. My work involved the developing of our website and general web-related questions.
 
-**Linköpings Universitet - LiTHehack** *2013-* \\
+**Linköpings Universitet - LiTHehack** *2013-2014* \\
 LiTHehack is a student-driven project at Linköping University aiming to help and inspire students with programming. Anyone is offered guidance whenever it's a school assignment, laboration or just a personal project.
 
 **Medieteknikdagarna - Webb- & PR-ansvarig** *2013-2014*\\
