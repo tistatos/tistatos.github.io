@@ -1,6 +1,5 @@
 # Site settings
 title: Erik Sandrén
-email: erik@hackerman.se
 description: "Erik Sandrén programmer with interest in real time graphics, Motion capture and other cool stuff"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.hackerman.se" # the base hostname & protocol for your site
