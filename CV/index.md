@@ -11,7 +11,10 @@ With a big interest for games and all the technical doohickeys making them tick,
 
 ## Experience
 ---
-**Veoneer & Arriver - Software Engineer** *May 2020 -* \\
+**Storkit - Video Engineer** *April 2022 -* \\
+Development of a scalable and distributed Video rendering and compositing engine. Developed in Rust with OpenGL. 
+
+**Veoneer & Arriver - Software Engineer** *May 2020 -April 2022* \\
 Software-in-the-loop (SiL) Simulator development for Advanced Driver Assistance
 System (ADAS) and Autonomous Driving (AD)
 
