@@ -7,26 +7,36 @@ permalink: /CV/
 
 ## Summary
 ---
-With a big interest for games and all the technical doohickeys making them tick, my passion lies in understanding and studying everything I can that revolves around computer graphics, Motion capture and game development.
+With a big interest for computer graphics, real time rendering and development close to the metal -
+Anything nerdy enough can (and probably will) interest me! I'm always looking for new things to
+learn and new challenges to tackle.
+
+During my spare time I will indulge in one of my many projects or hobbies. I've quite recently
+started with analog photography, with the next step to start developing my own film (wish me good
+luck!).
 
 ## Experience
 ---
-**Storkit - Video Engineer** *April 2022 -* \\
-Development of a scalable and distributed Video rendering and compositing engine. Developed in Rust with OpenGL. 
+**Storykit - Video Engineer** *April 2022 -* \\
+Development of a scalable and distributed Video rendering and compositing engine. Developed in Rust
+using wgpu as our rendering backend. Currently improving our rendering pipeline to use
+WebAssembly and WebGPU to render videos in the browser.
 
 **Veoneer & Arriver - Software Engineer** *May 2020 -April 2022* \\
 Software-in-the-loop (SiL) Simulator development for Advanced Driver Assistance
-System (ADAS) and Autonomous Driving (AD)
+System (ADAS) and Autonomous Driving (AD).
 
 **Dataton AB - Software Developer** *2017 - 2020* \\
 At Dataton I work as a Software developer on WATCHOUT - a multi-display software
 solution for AV industry with application areas such as live staging, museum exhibitions.
+Development was in C++ with DirectX. My big projects there was implementation of a motion capture
+based tracking system and playback via SDI.
 
 **Dataton AB - Master Thesis** *Jan 2017 - Jun 2017* \\
 My master thesis had the title *Camera-based calibration for projection
 mapping*. It consisted of looking at methods of automating the process of
 calibrating the setup to achieve projection mapping. By using the projector and
-a camera to achieve computer stereo vision via structured light
+a camera to achieve computer stereo vision via structured light.
 
 **Consid - Student Ambassador** *2016 - 2017* \\
 As a Student Ambassador for Consid, I was their channel to interact with

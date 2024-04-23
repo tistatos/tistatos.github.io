@@ -5,19 +5,9 @@ image_url: /assets/startimg.jpg
 
 <div class="home">
 
-  <h1 class="page-heading">Latest posts</h1>
+  <h1 class="page-heading">Hello!</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts limit:2 %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <p> {{post.short}} </p>
-      </li>
-    {% endfor %}
-  </ul>
-  <a class="page-link-right" href="{{site.baseurl}}/posts">Older posts..</a>
+	<p class="post-intro">
+		I like to make machines go bleep bloop and then do cool stuff.
+	</p>
 </div>
